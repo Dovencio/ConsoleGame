@@ -1,0 +1,307 @@
+# depslib dependency file v1.0
+1453833018 source:e:\console game (0.2)\idle game plugin.cpp
+	<iostream>
+	"idle game vars.cpp"
+
+1453833210 e:\console game (0.2)\idle game vars.cpp
+	<iostream>
+
+1453832020 source:e:\console game (0.2)\main.cpp
+	<iostream>
+	"idle game plugin.cpp"
+
+1453833206 e:\console game (0.2)\idle game plugin.cpp
+	<iostream>
+	"idle game vars.cpp"
+
+1453931724 source:d:\console game (0.2)\idle game plugin.cpp
+	<iostream>
+
+1453931724 source:d:\console game (0.2)\holder\idle game plugin.cpp
+	<iostream>
+
+1453833236 source:d:\console game (0.2)\holder\idle game vars.cpp
+	<iostream>
+
+1453932108 source:d:\console game (0.2)\main.cpp
+	<iostream>
+	"holder\Idle game plugin.cpp"
+
+1453932372 d:\console game (0.2)\holder\idle game plugin.cpp
+	<iostream>
+
+1453932372 source:d:\programing\console game (0.2)\holder\idle game plugin.cpp
+	<iostream>
+
+1453833236 source:d:\programing\console game (0.2)\holder\idle game vars.cpp
+	<iostream>
+
+1458947716 source:d:\programing\console game (0.2)\main.cpp
+	"Better Header..h"
+	"Prsn.h"
+
+1455754446 d:\programing\console game (0.2)\header.hpp
+
+1455755240 d:\programing\console game (0.2)\idlegame.cpp
+	<iostream>
+	"Header.hpp"
+
+1459037882 source:d:\programing\console game (0.2)\idlegame.cpp
+	"Better Header..h"
+
+1458533318 source:f:\programing\console game (0.2)\main.cpp
+	"Better Header..h"
+	"Prsn.h"
+
+1458534926 f:\programing\console game (0.2)\better header..h
+	<iostream>
+	<sstream>
+	<conio.h>
+	<string>
+	<ctime>
+	"Prsn.h"
+	"Room.h"
+	"Summoner.h"
+
+1458947716 source:e:\programing\console game (0.2)\main.cpp
+	"Better Header..h"
+	"Prsn.h"
+
+1459037882 e:\programing\console game (0.2)\better header..h
+	<iostream>
+	<sstream>
+	<conio.h>
+	<string>
+	<ctime>
+	<tuple>
+	"Prsn.h"
+	"Room.h"
+	"Summoner.h"
+
+1459037882 d:\programing\console game (0.2)\better header..h
+	<iostream>
+	<sstream>
+	<conio.h>
+	<string>
+	<ctime>
+	<tuple>
+	"Prsn.h"
+	"Room.h"
+	"Summoner.h"
+
+1458235438 source:f:\programing\console game (0.2)\idlegame.cpp
+	"Better Header..h"
+
+1456457426 f:\programing\console game (0.2)\do the password.cpp
+	<iostream>
+	<sstream>
+	<conio.h>
+
+1458081560 source:f:\programing\console game (0.2)\do the password.cpp
+	"Better Header..h"
+
+1458534580 source:f:\programing\console game (0.2)\chapter1; the mind of the lost.cpp
+	"Better Header..h"
+
+1458085160 source:e:\programing\console game (0.2)\do the password.cpp
+	"Better Header..h"
+
+1459037882 source:e:\programing\console game (0.2)\idlegame.cpp
+	"Better Header..h"
+
+1458085160 source:d:\programing\console game (0.2)\do the password.cpp
+	"Better Header..h"
+
+1459381574 source:d:\programing\console game (0.2)\chapter1; the mind of the lost.cpp
+	"Better Header..h"
+
+1458940394 source:d:\programing\console game (0.2)\src\prsn.cpp
+	"prsn.h"
+
+1459358094 d:\programing\console game (0.2)\include\prsn.h
+	<iostream>
+	<Invtry.h>
+	<tuple>
+
+1458167652 source:e:\programing\console game (0.2)\chapter1; the mind of the lost.cpp
+	"Better Header..h"
+
+1459358094 e:\programing\console game (0.2)\include\prsn.h
+	<iostream>
+	<Invtry.h>
+	<tuple>
+
+1458940394 source:e:\programing\console game (0.2)\src\prsn.cpp
+	"prsn.h"
+
+1458234692 f:\programing\console game (0.2)\include\prsn.h
+	<iostream>
+	<Invtry.h>
+
+1457664824 source:f:\programing\console game (0.2)\src\prsn.cpp
+	"prsn.h"
+
+1457908448 source:f:\programing\console game (0.2)\room.cpp
+	"room.h"
+
+1457908446 f:\programing\console game (0.2)\room.h
+
+1458164528 source:f:\programing\console game (0.2)\src\room.cpp
+	"Room.h"
+
+1458534580 f:\programing\console game (0.2)\include\room.h
+	<iostream>
+
+1457908448 f:\programing\console game (0.2)\room.cpp
+	"room.h"
+
+1459383026 e:\programing\console game (0.2)\include\room.h
+	<iostream>
+	<tuple>
+
+1459356500 source:e:\programing\console game (0.2)\src\room.cpp
+	"Room.h"
+
+1458082806 f:\programing\console game (0.2)\include\summoner.h
+	<Prsn.h>
+
+1458940786 e:\programing\console game (0.2)\include\summoner.h
+	<Prsn.h>
+	<tuple>
+
+1458941272 source:e:\programing\console game (0.2)\src\summoner.cpp
+	"Summoner.h"
+
+1459383026 d:\programing\console game (0.2)\include\room.h
+	<iostream>
+	<tuple>
+
+1458940786 d:\programing\console game (0.2)\include\summoner.h
+	<Prsn.h>
+	<tuple>
+
+1459356500 source:d:\programing\console game (0.2)\src\room.cpp
+	"Room.h"
+
+1458941272 source:d:\programing\console game (0.2)\src\summoner.cpp
+	"Summoner.h"
+
+1458170456 source:d:\programing\console game (0.2)\src\invtry.cpp
+	"Invtry.h"
+
+1458792922 d:\programing\console game (0.2)\include\invtry.h
+	<iostream>
+	<sstream>
+	<conio.h>
+	<string>
+	<Item.h>
+	<tuple>
+
+1458534216 f:\programing\console game (0.2)\include\invtry.h
+	<iostream>
+	<sstream>
+	<conio.h>
+	<string>
+	<Item.h>
+
+1458166856 source:f:\programing\console game (0.2)\src\invtry.cpp
+	"Invtry.h"
+
+1458082766 source:f:\programing\console game (0.2)\src\summoner.cpp
+	"Summoner.h"
+
+1458534150 f:\programing\console game (0.2)\include\item.h
+	<iostream>
+
+1458528598 source:f:\programing\console game (0.2)\src\item.cpp
+	"Item.h"
+
+1459722608 source:g:\programing\console game (0.2)\chapter1; the mind of the lost.cpp
+	"Better Header..h"
+
+1459722984 g:\programing\console game (0.2)\better header..h
+	<iostream>
+	<sstream>
+	<conio.h>
+	<string>
+	<ctime>
+	<tuple>
+	"Prsn.h"
+	"Room.h"
+	"Summoner.h"
+
+1459354494 g:\programing\console game (0.2)\include\prsn.h
+	<iostream>
+	<Invtry.h>
+	<tuple>
+
+1458789322 g:\programing\console game (0.2)\include\invtry.h
+	<iostream>
+	<sstream>
+	<conio.h>
+	<string>
+	<Item.h>
+	<tuple>
+
+1458789326 g:\programing\console game (0.2)\include\item.h
+	<iostream>
+	<tuple>
+
+1459379426 g:\programing\console game (0.2)\include\room.h
+	<iostream>
+	<tuple>
+
+1458937186 g:\programing\console game (0.2)\include\summoner.h
+	<Prsn.h>
+	<tuple>
+
+1458081560 source:g:\programing\console game (0.2)\do the password.cpp
+	"Better Header..h"
+
+1459034282 source:g:\programing\console game (0.2)\idlegame.cpp
+	"Better Header..h"
+
+1458166856 source:g:\programing\console game (0.2)\src\invtry.cpp
+	"Invtry.h"
+
+1458528598 source:g:\programing\console game (0.2)\src\item.cpp
+	"Item.h"
+
+1458936794 source:g:\programing\console game (0.2)\src\prsn.cpp
+	"prsn.h"
+
+1459352900 source:g:\programing\console game (0.2)\src\room.cpp
+	"Room.h"
+
+1458937672 source:g:\programing\console game (0.2)\src\summoner.cpp
+	"Summoner.h"
+
+1459722730 source:g:\programing\console game (0.2)\main.cpp
+	"Better Header..h"
+	"Prsn.h"
+
+1458792922 e:\programing\console game (0.2)\include\invtry.h
+	<iostream>
+	<sstream>
+	<conio.h>
+	<string>
+	<Item.h>
+	<tuple>
+
+1458792926 e:\programing\console game (0.2)\include\item.h
+	<iostream>
+	<tuple>
+
+1458170456 source:e:\programing\console game (0.2)\src\invtry.cpp
+	"Invtry.h"
+
+1458532198 source:e:\programing\console game (0.2)\src\item.cpp
+	"Item.h"
+
+1458792926 d:\programing\console game (0.2)\include\item.h
+	<iostream>
+	<tuple>
+
+1458532198 source:d:\programing\console game (0.2)\src\item.cpp
+	"Item.h"
+
